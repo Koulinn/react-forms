@@ -1,5 +1,23 @@
 import { useState } from "react";
 
+//Goal!
+//Registration form
+
+//Name
+// surname
+// post code
+// phone number
+// gender
+// city
+// email (must have @ at least)
+// password (minimum 6 characters)
+// username (unique)
+
+// to mimic a register when the user submits the form
+// it should check if all fields are filled and have met the requirements
+// if the values are valid you should push it to the array of users
+// Extra! username must be unique
+
 function App() {
   const [formValues, setFormValues] = useState({
     name: "",
