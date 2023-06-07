@@ -87,6 +87,266 @@ function App() {
           <option>Other</option>
           <option>Unicorn</option>
         </select>
+        <select
+          id="gender"
+          value={gender}
+          onChange={(e) => handleFormValues(e.target.value, "gender")}
+        >
+          <option>Male</option>
+          <option>Female</option>
+          <option>Other</option>
+          <option>Unicorn</option>
+        </select>
+        <select
+          id="gender"
+          value={gender}
+          onChange={(e) => handleFormValues(e.target.value, "gender")}
+        >
+          <option>Male</option>
+          <option>Female</option>
+          <option>Other</option>
+          <option>Unicorn</option>
+        </select>
+        <select
+          id="gender"
+          value={gender}
+          onChange={(e) => handleFormValues(e.target.value, "gender")}
+        >
+          <option>Male</option>
+          <option>Female</option>
+          <option>Other</option>
+          <option>Unicorn</option>
+        </select>
+        <select
+          id="gender"
+          value={gender}
+          onChange={(e) => handleFormValues(e.target.value, "gender")}
+        >
+          <option>Male</option>
+          <option>Female</option>
+          <option>Other</option>
+          <option>Unicorn</option>
+        </select>
+        <select
+          id="gender"
+          value={gender}
+          onChange={(e) => handleFormValues(e.target.value, "gender")}
+        >
+          <option>Male</option>
+          <option>Female</option>
+          <option>Other</option>
+          <option>Unicorn</option>
+        </select>
+        <select
+          id="gender"
+          value={gender}
+          onChange={(e) => handleFormValues(e.target.value, "gender")}
+        >
+          <option>Male</option>
+          <option>Female</option>
+          <option>Other</option>
+          <option>Unicorn</option>
+        </select>
+        <select
+          id="gender"
+          value={gender}
+          onChange={(e) => handleFormValues(e.target.value, "gender")}
+        >
+          <option>Male</option>
+          <option>Female</option>
+          <option>Other</option>
+          <option>Unicorn</option>
+        </select>
+        <select
+          id="gender"
+          value={gender}
+          onChange={(e) => handleFormValues(e.target.value, "gender")}
+        >
+          <option>Male</option>
+          <option>Female</option>
+          <option>Other</option>
+          <option>Unicorn</option>
+        </select>
+        <select
+          id="gender"
+          value={gender}
+          onChange={(e) => handleFormValues(e.target.value, "gender")}
+        >
+          <option>Male</option>
+          <option>Female</option>
+          <option>Other</option>
+          <option>Unicorn</option>
+        </select>
+        <select
+          id="gender"
+          value={gender}
+          onChange={(e) => handleFormValues(e.target.value, "gender")}
+        >
+          <option>Male</option>
+          <option>Female</option>
+          <option>Other</option>
+          <option>Unicorn</option>
+        </select>
+        <select
+          id="gender"
+          value={gender}
+          onChange={(e) => handleFormValues(e.target.value, "gender")}
+        >
+          <option>Male</option>
+          <option>Female</option>
+          <option>Other</option>
+          <option>Unicorn</option>
+        </select>
+        <select
+          id="gender"
+          value={gender}
+          onChange={(e) => handleFormValues(e.target.value, "gender")}
+        >
+          <option>Male</option>
+          <option>Female</option>
+          <option>Other</option>
+          <option>Unicorn</option>
+        </select>
+        <select
+          id="gender"
+          value={gender}
+          onChange={(e) => handleFormValues(e.target.value, "gender")}
+        >
+          <option>Male</option>
+          <option>Female</option>
+          <option>Other</option>
+          <option>Unicorn</option>
+        </select>
+        <select
+          id="gender"
+          value={gender}
+          onChange={(e) => handleFormValues(e.target.value, "gender")}
+        >
+          <option>Male</option>
+          <option>Female</option>
+          <option>Other</option>
+          <option>Unicorn</option>
+        </select>
+        <select
+          id="gender"
+          value={gender}
+          onChange={(e) => handleFormValues(e.target.value, "gender")}
+        >
+          <option>Male</option>
+          <option>Female</option>
+          <option>Other</option>
+          <option>Unicorn</option>
+        </select>
+        <select
+          id="gender"
+          value={gender}
+          onChange={(e) => handleFormValues(e.target.value, "gender")}
+        >
+          <option>Male</option>
+          <option>Female</option>
+          <option>Other</option>
+          <option>Unicorn</option>
+        </select>
+        <select
+          id="gender"
+          value={gender}
+          onChange={(e) => handleFormValues(e.target.value, "gender")}
+        >
+          <option>Male</option>
+          <option>Female</option>
+          <option>Other</option>
+          <option>Unicorn</option>
+        </select>
+        <select
+          id="gender"
+          value={gender}
+          onChange={(e) => handleFormValues(e.target.value, "gender")}
+        >
+          <option>Male</option>
+          <option>Female</option>
+          <option>Other</option>
+          <option>Unicorn</option>
+        </select>
+        <select
+          id="gender"
+          value={gender}
+          onChange={(e) => handleFormValues(e.target.value, "gender")}
+        >
+          <option>Male</option>
+          <option>Female</option>
+          <option>Other</option>
+          <option>Unicorn</option>
+        </select>
+        <select
+          id="gender"
+          value={gender}
+          onChange={(e) => handleFormValues(e.target.value, "gender")}
+        >
+          <option>Male</option>
+          <option>Female</option>
+          <option>Other</option>
+          <option>Unicorn</option>
+        </select>
+        <select
+          id="gender"
+          value={gender}
+          onChange={(e) => handleFormValues(e.target.value, "gender")}
+        >
+          <option>Male</option>
+          <option>Female</option>
+          <option>Other</option>
+          <option>Unicorn</option>
+        </select>
+        <select
+          id="gender"
+          value={gender}
+          onChange={(e) => handleFormValues(e.target.value, "gender")}
+        >
+          <option>Male</option>
+          <option>Female</option>
+          <option>Other</option>
+          <option>Unicorn</option>
+        </select>
+        <select
+          id="gender"
+          value={gender}
+          onChange={(e) => handleFormValues(e.target.value, "gender")}
+        >
+          <option>Male</option>
+          <option>Female</option>
+          <option>Other</option>
+          <option>Unicorn</option>
+        </select>
+        <select
+          id="gender"
+          value={gender}
+          onChange={(e) => handleFormValues(e.target.value, "gender")}
+        >
+          <option>Male</option>
+          <option>Female</option>
+          <option>Other</option>
+          <option>Unicorn</option>
+        </select>
+        <select
+          id="gender"
+          value={gender}
+          onChange={(e) => handleFormValues(e.target.value, "gender")}
+        >
+          <option>Male</option>
+          <option>Female</option>
+          <option>Other</option>
+          <option>Unicorn</option>
+        </select>
+        <select
+          id="gender"
+          value={gender}
+          onChange={(e) => handleFormValues(e.target.value, "gender")}
+        >
+          <option>Male</option>
+          <option>Female</option>
+          <option>Other</option>
+          <option>Unicorn</option>
+        </select>
 
         <label htmlFor="mailboxYes">
           Receive offers
